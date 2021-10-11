@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolás Guzmán</h1>
 <h3 align="center">Un desarrollador full-stack en busca de desafios, con intereses de aprender constantemente y caracter sociable</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NNGR01](https://github.com/NNGR01)
 
